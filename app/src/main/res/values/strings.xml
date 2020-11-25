@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Water Care</string>
+    <string name="iniciar">Iniciar Sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="nivel">Nivel de Agua</string>
+    <string name="lleno"> AGUA DISPONIBLE</string>
+    <string name="rating">Rating</string>
+    <string name="sistema">Sistema</string>
+    <string name="precio">Precio</string>
+    <string name="calidad">Calidad</string>
+    <string name="inn">Innovación</string>
+    <string name="atenn">Atención</string>
+    <string name="notificacion">Notificación</string>
+    <string name="regresar">Regresar</string>
+    <string name="votar">Votar</string>
+    <string name="channel_name" />
+    <string name="channel_description" />
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Water Care</string>
+    <string name="nav_header_subtitle">Cuidamos el agua de hoy para que sea el agua del mañana</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Historial</string>
+    <string name="menu_slideshow">Usuarios</string>
+
+</resources>
